@@ -57,10 +57,10 @@ The films section fetches real data from the [TMDB API](https://www.themoviedb.o
 All rendered in horizontally scrollable poster rows with gold star ratings and a consistent 2:3 card format.
 
 > 📸 **[Screenshot — Films page, trending row]**
-> ![](assets/screenshots/films_trending.png)
+![](assets/screenshots/films_trending.png)
 
 > 🎬 **[GIF — Scrolling through genre filter]**
-> ![](assets/gifs/films_genre_scroll.gif)
+ ![](assets/gifs/films_genre_scroll.gif)
 
 ---
 
