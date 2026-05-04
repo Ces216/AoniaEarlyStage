@@ -40,8 +40,9 @@ The app is in early development. The following has been implemented so far:
 ### ✅ Design system
 A custom Flutter design system built from scratch — dark palette, `Cormorant Garamond` for editorial moments, `DM Sans` for UI, and per-section colour accents (film in blue, music in rose, series in amber, books in green). No third-party UI libraries.
 
-> 📸 **[Screenshot — Design system / colour palette]**
-> ![](assets/screenshots/design_system.png)
+
+| ![](assets/screenshots/design_system.png) |
+
 
 ---
 
@@ -56,11 +57,8 @@ The films section fetches real data from the [TMDB API](https://www.themoviedb.o
 
 All rendered in horizontally scrollable poster rows with gold star ratings and a consistent 2:3 card format.
 
-> 📸 **[Screenshot — Films page, trending row]**
-![](assets/screenshots/films_trending.png)
-
-> 🎬 **[GIF — Scrolling through genre filter]**
- ![](assets/gifs/films_genre_scroll.gif)
+| ![](assets/screenshots/films_trending.png) | ![](assets/gifs/films_genre_scroll.gif) |
+ 
 
 ---
 
@@ -135,7 +133,7 @@ I'm learning Flutter and Dart from scratch throughout this project — intention
 
 *Will be updated progressively as the app grows.*
 
-| Films — Trending | Films — Genre filter | Design system |
+| Films — Trending | Films — Genre | Design system |
 |:---:|:---:|:---:|
 | ![](assets/screenshots/films_trending.png) | ![](assets/screenshots/films_genre.png) | ![](assets/screenshots/design_system.png) |
 
